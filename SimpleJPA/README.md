@@ -4,6 +4,6 @@
 * Aplicação conseguiu trabalhar com Create, Update, Delete e Find com o MySql.
 
 O funcionamento é simples, cria-se um classe Empregado onde irá ser mapeado, de acordo 
-com os condeitos de ORM através de Annotations. Dessa forma é possível torná-lo legível ao banco de dados.
+com os conceitos de componentes ORM através de Annotations. Dessa forma é possível torná-lo legível ao banco de dados.
 Após feito a classe com seus respectivos atributos e métodos, a persistência é configurado ao banco MySql.
 Logo em seguida é criado as classes onde prestará os serviços de Create, Update, Delete e Find.
